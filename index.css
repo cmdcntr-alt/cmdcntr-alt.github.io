@@ -1,0 +1,11 @@
+body {
+    background: #acecff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 180%;
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+img {
+    width: 60%
+}
